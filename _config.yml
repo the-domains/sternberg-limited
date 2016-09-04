@@ -1,3 +1,4 @@
+layout_spectrum: 0.8983259918168187
 typography_spectrum: 0.7034187195822597
 color:
   brandStrength: 0.8180894036777318
@@ -10,7 +11,4 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-layout_spectrum: 0.8983259918168187
 name: Sternberg Limited
-title: Quality Assurance
-description: Quality in leaps and bounds
